@@ -16,17 +16,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RounakRaman&label=Profile%20views&color=green&style=flat" alt="RounakRaman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RounakRaman" alt="RounakRaman" /></a> </p>
- ## Who am I?
+
+**Who I Am**
 
  ```python
 class WhoAmI:
  	     user = 'Rounak Raman'
-		          current_work = 'Analysing data and building AI tools'
-		           hobbies = [
-				                       'Kicking goals on the football field and off it',
-    				                   'Geo-politicking like it’s my favorite game of Risk',
-    				                   'Time-traveling through history, no DeLorean needed',
-    				                   'Speeding through life, one go-kart lap at a time with tu-du-du in my ears.'
+		     current_work = 'Analysing data and building AI tools'
+		     hobbies = [
+				              'Kicking goals on the football field and off it',
+    				      'Geo-politicking like it’s my favorite game of Risk',
+    				      'Time-traveling through history, no DeLorean needed',
+    				      'Speeding through life, one go-kart lap at a time with tu-du-du in my ears.'
 			                     ]
 
 	    def getCity():
