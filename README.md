@@ -72,6 +72,11 @@ class WhoAmI:
 
 [![Stargazers repo roster for @RounakRaman/RounakRaman](https://reporoster.com/stars/RounakRaman/RounakRaman)](https://github.com/RounakRaman/RounakRaman/stargazers)
 
+## A fancy snake eating my contributions
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lucia-corsan/lucia-corsan/output/github-contribution-grid-snake.svg" />
+  
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
